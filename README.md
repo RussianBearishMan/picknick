@@ -1,1 +1,2 @@
 # picknick
+print (duck)
